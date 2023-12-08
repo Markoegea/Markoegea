@@ -1,16 +1,13 @@
 ### Hi there 👋
+# Is a pleasure to meet your dear reader
+# My Name is Marco Egea
 
-<!--
-**Markoegea/Markoegea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a virtual assistant that can execute your code using your voice as input.
+- 🌱 I’m currently learning about deep learning and reinforcement learning, how to apply them.
+- 👯 I’m looking to collaborate on a open source project of any kind.
+- 🤔 I’m looking for a job to earn enough to finance my ambitious projects.
+- 💬 Ask me about anything related to software, videogames, robots and artificial intelligence.
+- 📫 How to reach me: my [linkedIn](www.linkedin.com/in/markoegea) my [Twitter](https://twitter.com/markoegea).
+- ⚡ Fun fact: I love the superhero movies, my favorite superhero is Spider-Man and the second is Ironman.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Thanks to give me some of your time and read my presentation. I really appreciate that. 😙
