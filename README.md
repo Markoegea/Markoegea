@@ -1,5 +1,5 @@
 # Hi there 👋
-## Is a pleasure to meet your dear reader
+## Is a pleasure to meet you, dear reader.
 ### My Name is Marco Egea
 
 - 🔭 I’m currently working on a virtual assistant that can execute your code using your voice as input.
