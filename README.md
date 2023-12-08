@@ -1,6 +1,6 @@
-### Hi there 👋
-# Is a pleasure to meet your dear reader
-# My Name is Marco Egea
+# Hi there 👋
+## Is a pleasure to meet your dear reader
+### My Name is Marco Egea
 
 - 🔭 I’m currently working on a virtual assistant that can execute your code using your voice as input.
 - 🌱 I’m currently learning about deep learning and reinforcement learning, how to apply them.
@@ -10,4 +10,4 @@
 - 📫 How to reach me: my [linkedIn](www.linkedin.com/in/markoegea) my [Twitter](https://twitter.com/markoegea).
 - ⚡ Fun fact: I love the superhero movies, my favorite superhero is Spider-Man and the second is Ironman.
 
-# Thanks to give me some of your time and read my presentation. I really appreciate that. 😙
+## Thanks to give me some of your time and read my presentation. I really appreciate that. 😙
