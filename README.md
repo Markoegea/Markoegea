@@ -10,7 +10,7 @@
 - 📫 How to reach me:
 <p align="center">
   <a href="https://twitter.com/markoegea">
-    <img src="https://img.shields.io/badge/follow-%40markoegea%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=black" alt="Marco Egea in Twitter"/>
+    <img src="https://img.shields.io/badge/follow-%40markoegea%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Marco Egea in Twitter"/>
   </a>
   <a href="https://discord.gg/X3CC9d4GQs">
     <img src="https://img.shields.io/discord/1040306541066195004?logo=discord&style=for-the-badge&color=blue" alt="TitanTec now in Discord!"/>
